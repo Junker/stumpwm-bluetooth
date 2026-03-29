@@ -11,7 +11,7 @@ git clone https://github.com/Junker/stumpwm-bluetooth bluetooth
 
 ```lisp
 (stumpwm:add-to-load-path "~/.stumpwm.d/modules/bluetooth")
-(load-module "wpctl")
+(load-module "bluetooth")
 ```
 
 ## Usage
