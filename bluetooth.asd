@@ -4,6 +4,7 @@
   :license "GPLv3"
   :depends-on (#:stumpwm
                #:alexandria
-               #:cl-ppcre)
+               #:cl-ppcre
+               #:bordeaux-threads)
   :serial t
   :components ((:file "bluetooth")))
