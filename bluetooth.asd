@@ -1,4 +1,4 @@
-(asdf:defsystem #:stumpwm-bluetooth
+(asdf:defsystem #:bluetooth
   :description "StumpWM module for controlling Bluetooth devices"
   :author "Dmitrii Kosenkov"
   :license "GPLv3"
