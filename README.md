@@ -31,7 +31,7 @@ git clone https://github.com/Junker/stumpwm-bluetooth bluetooth
 Add `%Y` to your mode-line format string:
 
 ```lisp
-(setf *screen-mode-line-format* '("[%B] %W"))
+(setf *screen-mode-line-format* '("[%Y]"))
 ```
 
 ### Formatters
